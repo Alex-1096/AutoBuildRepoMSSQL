@@ -1,0 +1,12 @@
+﻿certifi==2023.11.17
+charset-normalizer==3.3.2
+gitdb==4.0.10
+GitPython==3.1.36
+idna==3.6
+pymssql==2.2.11
+pyodbc==4.0.39
+python-dotenv==1.0.0
+regex==2023.12.25
+requests==2.31.0
+smmap==5.0.0
+urllib3==2.2.0
